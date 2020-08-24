@@ -12,7 +12,6 @@ Minhas redes:
    <img src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-3.png" width="18" alt="Instagram">
     <a href="https://www.instagram.com/felipe.sillva12/" target="_blank" title="My Instagram">Instagram</a>
   </li>
-  <li>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=felipe8764)
